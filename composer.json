@@ -1,15 +1,14 @@
 {
-    "name": "kasp3r/link-preview",
+    "name": "parthmp/link-preview",
     "type": "library",
     "description": "Link preview library for PHP",
     "keywords": ["php","url","scraping"],
-    "homepage": "http://github.com/kasp3r/link-preview",
+    "homepage": "https://github.com/parthmp/link-preview",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tadas Juozapaitis",
-            "email": "kasp3rito@gmail.com",
-            "homepage": "http://jugbit.com"
+            "name": "Parth Parmar",
+            "email": "parthparmaronline@gmail.com"
         }
     ],
     "require": {

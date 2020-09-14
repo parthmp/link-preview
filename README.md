@@ -1,7 +1,7 @@
 LinkPreview [![Build Status](https://secure.travis-ci.org/kasp3r/link-preview.png)](http://travis-ci.org/kasp3r/link-preview)
 ===========
 
-A PHP library to easily get website information (title, description, image...) from given url.
+A PHP library to easily get website information (title, description, image...) from given url. based on kasp3r/link-preview (https://github.com/kasp3r/link-preview)
 
 ## Dependencies
 
